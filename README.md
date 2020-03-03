@@ -1,6 +1,8 @@
 # VHDL-Projects
 
-This work was made for the exam of Architecture of Computer Systems (University of Naples Federico II).
+[Italian README](README-it.md)
+
+This work was made for the exam of "Architecture of Computer Systems" (University of Naples Federico II).
 
 It contains the following projects : 
 
@@ -20,7 +22,6 @@ It contains the following projects :
 
 Some of them have been synthesized on the Nexys2 Spartan 3E FPGA.
 
-Please rate this repo if you find it useful.
 
 Post Scriptum:
 
